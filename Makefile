@@ -4,8 +4,6 @@ SUBLEVEL = 66
 EXTRAVERSION =
 NAME = Blurry Fish Butt
 
-Prove I can edit a file.
-
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
 # More info can be located in ./README
